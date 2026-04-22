@@ -92,7 +92,8 @@ Si te da un error al ejecutar el comando anterior prueba lo siguiente:
   [Y] Yes  [A] Yes to All  [N] No  [L] No to All  [S] Suspend  [?] Help (default is "N"):
 
   - Escribe: **"Y"**, presiona ENTER.
-  - Regresa a la terminal de Visual Studio Code y vuelve a ingresar el comando:
+  - Regresa a Visual Studio Code, cierra la terminal anterior y abre una nueva.
+  - Vuelve a ingresar el comando:
 
   ```bash
   npm install

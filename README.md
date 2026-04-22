@@ -1,13 +1,13 @@
 # Sistema de Recetas - App Móvil
 
-Aplicación móvil desarrollada con React Native y Expo, orientada a la gestión de recetas utilizando almacenamiento en memoria local.
+Aplicación móvil desarrollada em **Visual Studio Code** con React Native y Expo, orientada a la gestión de recetas utilizando almacenamiento en memoria local.
 
 ---
 
 ## Tecnologías utilizadas
-React Native
-Expo
-JavaScript
+- React Native
+- Expo
+- JavaScript
 
 ---
 

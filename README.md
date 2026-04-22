@@ -65,13 +65,19 @@ git clone URL_DEL_REPOSITORIO
 ```bash
 cd SistemaRecetas
 ```
-3. Instalar dependencias:
+3. Abre el proyecto en Visual Studio Code:
+   - Abrir Visual Studio Code
+   - Ir a File > Open Folder y selelccionar la carpeta del proyecto
+   - Luego abrir una terminal desde **Terminal** > **New Terminal**
+   
+5. Instalar dependencias:
+Escribir el siguiente comando en la terminal:
 ```bash
 npm install
 ```
 
-## Instalación del proyecto
-Inicia el servidor de desarrollo con:
+6. Ejecución del proyecto
+Inicia el servidor de desarrollo en la terminal con:
 ```bash
 npx expo start
 ```

@@ -113,6 +113,17 @@ Esto generará un código QR en la terminal.
 
 La aplicación se cargará automáticamente en el celular.
 
+## Posible error:
+Si al escanear el código QR o introducir la URL manualmente aparece la pantalla de "Project is incompatible with this version of Expo Go"
+
+Esto se debe a que el proyecto usa SDK 53. 
+**Solución:**
+- Selecciona "Learn how to install Expo Go for SDK 53"
+- Presionas el botón de "Download"
+- Antes de actualizar a esa versión es necesario **desinstalar** el Expo Go que se descargó antes
+- Instalar Expo Go ahora con SDK 53
+- Volver a escanear código QR o ingresar URL manualmente para ver la app
+
 ## Nota:
 El login está deshabilitado **temporalmente**, ingresa escribiendo cualquier nombre de usuario y cualquier contraseña.
 Ejemplo:

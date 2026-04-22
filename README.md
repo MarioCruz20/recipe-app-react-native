@@ -9,6 +9,20 @@ Aplicación móvil desarrollada en **Visual Studio Code** con React Native y Exp
 - Expo
 - JavaScript
 
+## Capturas de pantalla de la aplicación
+
+### Login
+<img width="714" height="1599" alt="4d754540-bd69-4b8b-a19c-ce9a350b8d83" src="https://github.com/user-attachments/assets/d48e98c4-f3d6-4993-929d-5c73eba24398" />
+
+### Menú principal
+<img width="714" height="1599" alt="91e9b8b4-29da-4997-b3ea-57d1ffb59855" src="https://github.com/user-attachments/assets/0e21a653-40be-4462-acc5-56f485faa932" />
+
+### Ingreso de recetas
+<img width="714" height="1599" alt="4e960004-4eae-4974-b596-b169403b054b" src="https://github.com/user-attachments/assets/6cf59134-28f6-46e4-a1a9-e8ccae6bc5a0" />
+
+### Lista de recetas
+<img width="714" height="1599" alt="c47b647f-2cac-4031-8376-fe05ae526c10" src="https://github.com/user-attachments/assets/4c752030-c24c-44d5-918b-4dcc3fafce81" />
+
 ---
 
 ## Funcionalidades
@@ -70,7 +84,7 @@ cd SistemaRecetas
    - Ir a File > Open Folder y selelccionar la carpeta del proyecto
    - Luego abrir una terminal desde **Terminal** > **New Terminal**
    
-5. Instalar dependencias:
+4. Instalar dependencias:
 Escribir el siguiente comando en la terminal:
 ```bash
 npm install
@@ -125,7 +139,7 @@ Esto se debe a que el proyecto usa SDK 53.
 - Volver a escanear código QR o ingresar URL manualmente para ver la app
 
 ## Nota:
-El login está deshabilitado **temporalmente**, ingresa escribiendo cualquier nombre de usuario y cualquier contraseña.
+El login no cuenta con validación backend, por lo que se puede ingresar con cualquier usuario y contraseña.
 Ejemplo:
 - Usuario: user
 - Contraseña: 1234

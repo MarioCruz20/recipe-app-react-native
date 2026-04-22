@@ -99,7 +99,7 @@ Si te da un error al ejecutar el comando anterior prueba lo siguiente:
   npm install
   ```
   ---
-6. Ejecución del proyecto
+5. Ejecución del proyecto
 Inicia el servidor de desarrollo en la terminal con:
 ```bash
 npx expo start

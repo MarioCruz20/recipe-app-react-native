@@ -84,7 +84,6 @@ npx expo start
 Esto generará un código QR en la terminal.
 
 ## Ejecución en dispositivo móvil
-- Descargar en tu celular la aplicación "Expo Go" desde la Google Play Store
 - Abrir la aplicación Expo Go en el celular
 - Seleccionar la opción "Scan QR Code"
 - Escanear el código QR generado en la terminal de Visual Studio Code

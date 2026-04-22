@@ -78,26 +78,26 @@ npm install
 
 ## Nota:
 Si te da un error al ejecutar el comando anterior prueba lo siguiente:
-  1. Abre Windows PowerShell como administrador
-  2. Escribe el comando y presiona ENTER: 
+  - Abre Windows PowerShell como administrador
+  - Escribe el comando y presiona ENTER: 
   ```bash
   Set-ExecutionPolicy RemoteSigned
   ```
-3. Te mostrará el siguiente mensaje:
+  - Te mostrará el siguiente mensaje:
 
-Execution Policy Change
-The execution policy helps protect you from scripts that you do not trust. Changing the execution policy might expose
-you to the security risks described in the about_Execution_Policies help topic at
-https:/go.microsoft.com/fwlink/?LinkID=135170. Do you want to change the execution policy?
-[Y] Yes  [A] Yes to All  [N] No  [L] No to All  [S] Suspend  [?] Help (default is "N"):
+  Execution Policy Change
+  The execution policy helps protect you from scripts that you do not trust. Changing the execution policy might expose
+  you to the security risks described in the about_Execution_Policies help topic at
+  https:/go.microsoft.com/fwlink/?LinkID=135170. Do you want to change the execution policy?
+  [Y] Yes  [A] Yes to All  [N] No  [L] No to All  [S] Suspend  [?] Help (default is "N"):
 
-4. Escribe: **Y**, presiona ENTER.
-5. Regresa a la terminal de Visual Studio Code y vuelve a ingresar el comando:
+  - Escribe: **"Y"**, presiona ENTER.
+  - Regresa a la terminal de Visual Studio Code y vuelve a ingresar el comando:
 
-```bash
-npm install
-```
----
+  ```bash
+  npm install
+  ```
+  ---
 6. Ejecución del proyecto
 Inicia el servidor de desarrollo en la terminal con:
 ```bash
